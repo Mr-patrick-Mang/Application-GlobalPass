@@ -3,6 +3,20 @@
 **Headlines:**
 Meeting with team
 
+## Meeting of _, X Jul 
+
+**Notes:**
+- 
+- 
+
+**Action items:**
+- 
+- 
+- 
+---
+**Headlines:**
+Meeting with team
+
 ## Meeting of Wed, 03 Jul 
 
 **Notes:**
